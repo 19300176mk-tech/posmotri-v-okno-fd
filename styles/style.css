@@ -116,7 +116,7 @@ ul, ol { list-style: none; }
 .search-form__label {
   display: inline-flex;
   align-items: center;
-  gap: 3px;
+  gap: 5px;
   width: fit-content;
 }
 
